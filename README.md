@@ -4,7 +4,9 @@
 
 The application is currently deployed on Hugging Face Spaces, providing easy access for anyone to utilize it:
 
-[![Hugging Face Spaces](https://huggingface.co/spaces/deepshikhar23/gemini-chatbot-app)]
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-huggingface.co-blue)](https://huggingface.co/spaces/deepshikhar23/gemini-chatbot-app)
+
+**Try the Resume Reviewer Now!**
 
 ## Project Overview
 
